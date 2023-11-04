@@ -837,7 +837,7 @@ plot(top_10_rules_to_plot, method = "grouped")
 # provided on eLearning.
 
 ## Part C ----
-# Create a markdown file called "Lab-Submission-Markdown.Rmd"
+# Create a markdown file called ""
 # and place it inside the folder called "markdown". Use R Studio to ensure the
 # .Rmd file is based on the "GitHub Document (Markdown)" template when it is
 # being created.
